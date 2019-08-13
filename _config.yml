@@ -1,0 +1,4 @@
+name: Onto Engineering
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
