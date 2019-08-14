@@ -8,4 +8,4 @@ Well. Finally got around to putting this old website together. Neat thing about 
 
 And here's the image I was trying to get from the index.html file via dropbox ![OilAndWater](https://www.dropbox.com/s/e8mb3rfiybll6ni/OilAndWater.png?dl=0)
 
-And here it is again from within GitHub ![OilAndWater]({{ site.url }}/_assets/_images/OilAndWater.png)
+And here it is again from within GitHub ![OilAndWater](../_assets/_images/OilAndWater.png)
