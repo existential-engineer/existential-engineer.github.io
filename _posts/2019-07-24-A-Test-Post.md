@@ -10,5 +10,5 @@ Picture test with Dropbox [OilAndWater](https://www.dropbox.com/s/e8mb3rfiybll6n
 
 Picture test from within github ![OilAndWater](../assets/images/OilAndWater.png)
 
-Octocat?
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+Picture?
+[[https://existential-engineer.github.io/blob/assets/images/OilAndWater.png|alt=octocat]]
