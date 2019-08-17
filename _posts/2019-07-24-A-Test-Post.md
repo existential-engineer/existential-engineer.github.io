@@ -8,6 +8,6 @@ Well. Finally got around to putting this old website together. Neat thing about 
 
 Typing is easy. But I want to be able to add images, and GitHub pages via Jekyll isn't letting me do this. I've tried using the kramdown reference guide [^1]
 
-Picture test from within github ![OilAndWater](images/OilAndWater.png)
+Picture test from within github ![OilAndWater](/images/OilAndWater.png)
 
 [^1] [kramdown](https://kramdown.gettalong.org/quickref.html#html-elements)
