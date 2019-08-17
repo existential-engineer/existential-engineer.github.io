@@ -11,4 +11,5 @@ Picture test with Dropbox [OilAndWater](https://www.dropbox.com/s/e8mb3rfiybll6n
 Picture test from within github ![OilAndWater](../assets/images/OilAndWater.png)
 
 Picture? Link? Or just a URL?
-[[https://github.com/existential-engineer.github.io/blob/assets/images/OilAndWater.png|alt=OilAndWater]]
+url (https://github.com/existential-engineer.github.io/blob/assets/images/OilAndWater.png)
+url (../assets/images/OilAndWater.png)
