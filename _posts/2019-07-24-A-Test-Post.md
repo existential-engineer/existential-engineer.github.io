@@ -8,7 +8,7 @@ Well. Finally got around to putting this old website together. Neat thing about 
 
 Picture test with Dropbox [OilAndWater](https://www.dropbox.com/s/e8mb3rfiybll6ni/OilAndWater.png?dl=0)
 
-Picture test from within github ![OilAndWater](../assets/images/OilAndWater.png)
+Picture test from within github !(../assets/images/OilAndWater.png)
 
 Picture?
 [[https://existential-engineer.github.io/blob/assets/images/OilAndWater.png|alt=octocat]]
