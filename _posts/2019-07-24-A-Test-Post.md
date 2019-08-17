@@ -10,4 +10,4 @@ Typing is easy. But I want to be able to add images, and GitHub pages via Jekyll
 
 Picture test from within github ![OilAndWater](images/OilAndWater.png)
 
-[^1] https://kramdown.gettalong.org/quickref.html#html-elements
+[^1] [kramdown](https://kramdown.gettalong.org/quickref.html#html-elements)
