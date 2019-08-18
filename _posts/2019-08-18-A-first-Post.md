@@ -15,6 +15,6 @@ Testing Testing 1,2,3:
 
 See, I got there in the end. So - having renamed this entry from "A Test Post" to "A First Post", I'm good to go, ready to dive more deeply into this strange and apparently useless world of philosophy in engineering. Or, put another way, I no longer have technical tinkering as an excuse not to proceed further with real thinking...
 
-[^1] [Jonathan McGlone's Guide](http://jmcglone.com/notes/2014/05/03/using-github-to-create-and-host-a-personal-website)
-[^2] [kramdown](https://kramdown.gettalong.org/quickref.html#html-elements)
-[^3] [GitHub guide](https://guides.github.com/features/mastering-markdown/)
+[^1]: [Jonathan McGlone's Guide](http://jmcglone.com/notes/2014/05/03/using-github-to-create-and-host-a-personal-website)
+[^2]: [kramdown](https://kramdown.gettalong.org/quickref.html#html-elements)
+[^3]: [GitHub guide](https://guides.github.com/features/mastering-markdown/)
