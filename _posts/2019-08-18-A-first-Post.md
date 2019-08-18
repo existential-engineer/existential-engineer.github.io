@@ -11,7 +11,7 @@ The basic setup was a lot easier than I thought it was going to be - but images 
 In addition to McGlone's guide, I made use of the kramdown reference guide[^2] and the GitHub guide to mastering Markdown[^3]
 
 Testing Testing 1,2,3:
-![OilAndWater](/images/ManyOnPhil.png)
+![OilAndWater](/images/ManyOnPhi.png)
 
 See, I got there in the end. So - having renamed this entry from "A Test Post" to "A First Post", I'm good to go, ready to dive more deeply into this strange and apparently useless world of philosophy in engineering. Or, put another way, I no longer have technical tinkering as an excuse not to proceed further with real thinking...
 
