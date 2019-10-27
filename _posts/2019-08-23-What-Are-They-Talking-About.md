@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What *are* they talking about?"
-date: 2019-08-18
+date: 2019-08-23
 ---
 
 On the face of it, there shouldn’t be a significant difference in how we approach a new topic in engineering or in philosophy. There is always a new vocabulary to learn, new correlations to be made between concepts, and new ideas to test out, to confirm, modify or to reject.
