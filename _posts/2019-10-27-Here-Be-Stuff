@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Here Be Stuff"
-date: 2019-08-18
+date: 2019-10-27
 ---
 
 Stuff. Is that the best word I could come up with to start my philosophically tinged blog on the nature of engineering? Well, at present, it is. It's the best. Up to now, I've been reading more than I have been writing, and in all honesty, "stuff" seems, as a word to use, more human, more engaging, simply more meaningful, than plenty of other words that I have encountered in my early reading into the philosophy of engineering.
