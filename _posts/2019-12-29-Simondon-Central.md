@@ -1,4 +1,8 @@
-2019-11-25-Simondon-Central
+---
+layout: post
+title: "Simondon Central"
+date: 2019-12-29
+---
 
 *Read! Process!* **Write!**
 
