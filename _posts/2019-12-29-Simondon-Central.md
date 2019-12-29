@@ -12,7 +12,6 @@ date: 2019-12-29
 
 **Draw!**
 
-# Simondon Central
 *How I stumbled across Gilbert Simondon, didn't do much about him until now, and why I'm still glad I did*
 
 ## Backburning philosophy
@@ -57,7 +56,7 @@ As I mentioned above, this thesis *On the mode of existence ...,* published in 1
 	- In the crafts, tools are "merely" an extension of the human body. The human is also the sole source of information to the tool, as well as often providing much of the power.
 	- In the technological industries, power can come from nature and information from other machines.
 
-### In his element
+## In his element
 The other topic that Simondon took on in this thesis was how a hierarchy of technical objects might look. He came up with (starting at the lowest level):
 
 + Elements
@@ -73,7 +72,7 @@ The other topic that Simondon took on in this thesis was how a hierarchy of tech
 
 > "The machine with superior technicality is an open machine..." {not merely as automated as possible} "...and the ensemble of open machines assumes man as permanent organizer and as a living interpreter of the inter-relationships of machines."
 
-### Concrete, but not as we know it
+## Concrete, but not as we know it
 Each technical object at each level could also be "rated" across another spectrum ranging from... and here it gets a little weird: from "abstract" to "concrete". Again, an initial stab at summarising these terms would look like this:
 
 - Abstract:
@@ -91,7 +90,7 @@ My own take on the word "concreteness" is that it describes a spectrum of maturi
 
 Also, whilst Simondon doesn't appear to have been considering other constraints such as material usage, waste, maintainability or recycling, he certainly stated that he doesn't expect any design to be perfectly "concrete."
 
-### Too many words!
+## Too many words!
 So many words! That was also a problem with the first edition of Simondon's thesis - they didn't allow for diagrams or sketches.
 
 Here's my sketch of an initial stab at trying to summarise the characterisation of Simondon's maturity - complexity classifications:
