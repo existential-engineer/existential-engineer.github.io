@@ -6,7 +6,7 @@ date: 2020-02-29
 
 ## Or: thinking about knowing
 
-##### What do engineers know?
+### What do engineers know?
 It turns out to be a suprisingly teasing, puzzling sort of a question, once you start going down that rabbit hole. Right now, I'm still fiddling for my torch, head poked curiously and warily down that dark burrow, but the call of exploration is strong...
 
 Umm, anyway, back to the question: what do we know?
