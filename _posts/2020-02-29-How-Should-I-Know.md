@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How should *I* know?"
-date: 2019-08-18
+date: 2020-02-29
 ---
 
 ## Or: thinking about knowing
