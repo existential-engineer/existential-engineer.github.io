@@ -19,8 +19,8 @@ Staying with the foreign travel analogy (said travel being at this time a largel
 - what it is we do, as engineers
 - what, exactly, engineering is
 - Openness. Hmm, although I’m posting this on the internet, I’m not ready to flag it. So, not really, not yet.
--- I would also say that I’m embarrassed, without evidence that I should be, at the thought that work colleagues might read this and think I’m an idiot for even trying.
--- I don’t feel ready to enter in a dialogue with others about philosophy
+  - I would also say that I’m embarrassed, without evidence that I should be, at the thought that work colleagues might read this and think I’m an idiot for even trying.
+>   - I don’t feel ready to enter in a dialogue with others about philosophy
 - An engineering degree, and a couple of decades of experience in the field
 - I’ve now read a few books and texts on philosophy
 - I sometimes try to reflect on my (work) experiences
