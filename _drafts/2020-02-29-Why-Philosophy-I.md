@@ -5,9 +5,9 @@ date: 2020-02-29
 ---
 
 ## What a job
-First of all, I am, thankfully, not a philosopher. I would probably have made a very poor one, especially as I can't imagine how one might make a living out of it, except, for most philosophers who stay in the business, by learning it and then teaching it. Clearly, though, humanity has managed to sustain philosophical thought through all sorts of challenges, be they economic or ideological. Philosophy has challenged engrained assumptions, created new ones, themselves to be challenged, and spawned the scientific method, amongst other things. Everyone has heard of Aristotle and Plato from the ancients. Many have at least heard of Hannah Arendt or Martin Heidegger, so philosophy has its rock stars. 
+First of all, I am, thankfully, not a philosopher. I would probably have made a very poor one, especially as I can't imagine how one might make a living out of it, except, for most philosophers who stay in the business, by learning it and then teaching it. Clearly, though, humanity has managed to sustain philosophical thought through all manner of challenges, be they economic or ideological. Philosophy has challenged engrained assumptions, created new ones, these in their turn to be challenged, and ultimately spawned the scientific method, enabled human rights to be valued, and provided a humanist way of contemplation and reflection, amongst other things. Everyone has heard of Aristotle and Plato from the ancients. Many have at least heard of Hannah Arendt or Martin Heidegger, so philosophy has its rock stars. 
 
-I'm just not one of them, that's all. And that's fine! There is room for overly keen amateurs like me to peer into that rabbit hole and think: "That looks interesting."
+I'm just not one of them, that's all. And that's fine! There is room for overly keen amateurs like me to peer into that rabbit hole and think: "That looks interesting." So, that's what I intend to do!
 
 ## Did somebody bring the map?
 As an interested and still enthusiastic amateur, I can say that philosophy is a foreign land that looks… intriguing. It is also immeasurably huge. So, let’s treat this post as an early entry into a travel journal. I have by now read some of the simpler travel guides, started to learn a few words from a phrasebook and had a look at it all online.
