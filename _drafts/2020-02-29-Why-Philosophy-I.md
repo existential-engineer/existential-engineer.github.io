@@ -5,7 +5,7 @@ date: 2020-02-29
 ---
 
 ## What a job
-First of all, I am thankful that I am not a philosopher. In fact, I have no idea how anybody can sustain a job or a livelihood as a philosopher, although there have been such thinkers throughout the centuries. 
+First of all, I am thankful that I am not a philosopher. In fact, I have no idea how anybody can sustain a job or a livelihood as a philosopher, although there have been such thinkers throughout the centuries.
 
 This, we could also restate as me being, quite emphatically, not a pro. Which makes things more fun, I would say, and – as far as I can work out from my own initial forays into this world – more comprehensible.
 
@@ -20,7 +20,7 @@ Staying with the foreign travel analogy (said travel being at this time a largel
 - what, exactly, engineering is
 - Openness. Hmm, although I’m posting this on the internet, I’m not ready to flag it. So, not really, not yet.
   - I would also say that I’m embarrassed, without evidence that I should be, at the thought that work colleagues might read this and think I’m an idiot for even trying.
->   - I don’t feel ready to enter in a dialogue with others about philosophy
+  - I don’t feel ready to enter in a dialogue with others about philosophy
 - An engineering degree, and a couple of decades of experience in the field
 - I’ve now read a few books and texts on philosophy
 - I sometimes try to reflect on my (work) experiences
@@ -41,9 +41,9 @@ And that, pretty much, was that between philosophy and me for the next couple of
 ## Daunt you go there
 Philosophers, as far as I knew, practically lived for unnecessarily complicated words like ontology, epistemology and so on. They seemed only able to express things in such tortured and obtuse language that nobody could understand it, other than other professional philosophers.
 
-And how did they get paid for that stuff, anyway? What were they *producing*? 
+And how did they get paid for that stuff, anyway? What were they *producing*?
 
-When it wasn't being incomprehensible, philosophy was also being just downright silly. 
+When it wasn't being incomprehensible, philosophy was also being just downright silly.
 
 Examples like the shadow play of Plato's [Allegory of the cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave), also mentioned, as I recall, in Sophie's World, just seemed to cast philosophy as a somewhat daft thought experiment without any practical use on how to act, to live my life or, eventually, how to study or think about engineering. Not a hint of it.
 
@@ -57,7 +57,7 @@ The point that I am slowly uncovering is that there isn’t a point. It’s a wh
 
 As far as I understand it now, philosophy is more a way of reflection than psychological analysis, though it enables that spectrum between feelings and notions on the one hand, and deep science on the other; we could almost say it’s a way of life, but it doesn’t prescribe what that way, for you, should be. Knowing the difference between techne and phronesis, for example, or considering hermeneutics as entering a dialogue with the author, even behind the screen of an apparently “done” text, might help to condition how we work.
 
-Aristotle’s notion of “praxis”, or practice, as being how we act towards the commonly understood “good” of a community (and its politics) can also be a guiding thought – but also a rabbit hole of understanding which community we are actually serving. 
+Aristotle’s notion of “praxis”, or practice, as being how we act towards the commonly understood “good” of a community (and its politics) can also be a guiding thought – but also a rabbit hole of understanding which community we are actually serving.
 
 We can treat the “names” of philosophy (Aristotle, Plato, Newman, Arendt, Gadamer, Husserl, etc) as the high priests of such thinking. Essentially, they’re the 'pros' who (somehow) managed to finance a life of thought and teaching for the rest of humanity. The problem with pros in any area of life, be it sport or art or materials science, is that their achievements can appear unattainable for mere mortals. This is what I’m trying to do here – not to attain the same level of mastery as those names, but to condense and learn from them as I apply it to my / our world of engineering.
 
