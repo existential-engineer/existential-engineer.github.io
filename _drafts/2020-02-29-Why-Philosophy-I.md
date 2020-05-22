@@ -5,9 +5,9 @@ date: 2020-02-29
 ---
 
 ## What a job
-First of all, I am thankful that I am not a philosopher. In fact, I have no idea how anybody can sustain a job or a livelihood as a philosopher, although there have been such thinkers throughout the centuries.
+First of all, I am not a philosopher, and I'm thankful for that. I probably would have made a very poor one, especially as I can't imagine how one might make a living out of it, except by teaching it. Clearly, though, humanity has managed to sustain philosophical thought through all sorts of challenges, be they economic or ideological. Everyone has heard of Aristotle and Plato from the ancients. Many have at least heard of Hannah Arendt or Martin Heidegger, so there philosophy has its rock stars. There may, then, be something about philosophy that attracts its professionals, but also its keen amateurs and dabblers.
 
-This, we could also restate as me being, quite emphatically, not a pro. Which makes things more fun, I would say, and – as far as I can work out from my own initial forays into this world – more comprehensible.
+I am then, quite emphatically, not a pro. And this is "just" a blog post noting an early interest and a first attempt as to why I, an engineer, might peer into that rabbit hole and think: "That looks interesting."
 
 ## Did somebody bring the map?
 As an interested and still enthusiastic amateur, I can say that philosophy is a foreign land that looks… intriguing. So, let’s treat this post as an early entry into a travel journal. I have by now read some of the simpler travel guides, started to learn a few words from a phrasebook and had a look at it all online.
@@ -20,7 +20,7 @@ Staying with the foreign travel analogy (said travel being at this time a largel
 - what, exactly, engineering is
 - Openness. Hmm, although I’m posting this on the internet, I’m not ready to flag it. So, not really, not yet.
   - I would also say that I’m embarrassed, without evidence that I should be, at the thought that work colleagues might read this and think I’m an idiot for even trying.
-  - I don’t feel ready to enter in a dialogue with others about philosophy
+>   - I don’t feel ready to enter in a dialogue with others about philosophy
 - An engineering degree, and a couple of decades of experience in the field
 - I’ve now read a few books and texts on philosophy
 - I sometimes try to reflect on my (work) experiences
