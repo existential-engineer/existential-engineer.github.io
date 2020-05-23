@@ -5,33 +5,17 @@ date: 2020-02-29
 ---
 
 ## What a job
-First of all, I am, thankfully, not a philosopher. I would probably have made a very poor one, especially as I can't imagine how one might make a living out of it, except, for most philosophers who stay in the business, by learning it and then teaching it. Clearly, though, humanity has managed to sustain philosophical thought through all manner of challenges, be they economic or ideological. Philosophy has challenged engrained assumptions, created new ones, these in their turn to be challenged, and ultimately spawned the scientific method, enabled human rights to be valued, and provided a humanist way of contemplation and reflection, amongst other things. Everyone has heard of Aristotle and Plato from the ancients. Many have at least heard of Hannah Arendt or Martin Heidegger, so philosophy has its rock stars. 
+First of all, I am, thankfully, not a philosopher. I would probably have been a very poor one, not having sufficient imagination on how one might make an actual living out of it, other than by learning it and then teaching it. Clearly, though, humanity has managed to sustain philosophical thought through all manner of challenges, be they economic or ideological. Philosophy has challenged engrained assumptions, created new ones, these in their turn to be challenged, and ultimately spawned the idea of logic and the scientific method, enabled human rights to be valued, and provided a humanist way of contemplation and reflection, amongst other things. Everyone has heard of Aristotle and Plato from the ancients. Many have at least heard of Hannah Arendt or Martin Heidegger, so philosophy has its rock stars. 
 
-I'm just not one of them, that's all. And that's fine! There is room for overly keen amateurs like me to peer into that rabbit hole and think: "That looks interesting." So, that's what I intend to do!
+I'm just not one of them, that's all. And that's fine! However there is, I feel, room for overly keen amateurs like me to peer into that rabbit hole and think: "That looks interesting." So, that's what I intend to do!
 
 ## Did somebody bring the map?
 As an interested and still enthusiastic amateur, I can say that philosophy is a foreign land that looks… intriguing. It is also immeasurably huge. So, let’s treat this post as an early entry into a travel journal. I have by now read some of the simpler travel guides, started to learn a few words from a phrasebook and had a look at it all online.
 
+## What: *All* of philosophy?
+In a word, no. I intend to focus on "just" engineering - but its connections to and overlaps with technology, nature, companies, economics and society mean that it's probably impossible to view engineering in isolation. And I'm not that sort of person, anyway. 
 
-## Papers, please
-Staying with the foreign travel analogy (said travel being at this time a largely theoretical concept), I could start to ask the basic questions: Am I brave enough? Have I the right credentials? Let’s see what I can rustle together at this juncture:
-- Curiosity. Yes, I’m curious about it all. I’m also uncertain about…
-- what it is we do, as engineers
-- what, exactly, engineering is
-- Openness. Hmm, although I’m posting this on the internet, I’m not ready to flag it. So, not really, not yet.
-  - I would also say that I’m embarrassed, without evidence that I should be, at the thought that work colleagues might read this and think I’m an idiot for even trying.
->   - I don’t feel ready to enter in a dialogue with others about philosophy
-- An engineering degree, and a couple of decades of experience in the field
-- I’ve now read a few books and texts on philosophy
-- I sometimes try to reflect on my (work) experiences
-- I’ve started trying to convert my loose thoughts and observations into writing
-
-Is that enough? It looks like a start, at least. Let’s go!
-
-Did someone bring the map?
-
-## *All* of philosophy?
-Just engineering
+Did that answer the question?
 
 ## Where it all didn’t begin
 The only previous encounter I had with philosophy that I can recall is reading Sophie’s World once in my late teens. I think Dad had picked it up on a business trip and passed it on to me. I’m sure I found it interesting, and I read it to the end, but I fear I read it “wrong” in two ways: firstly, in expecting to end up "knowing" more by the time I'd finished. I don’t believe I was open to any possibility of the book granting profound insights into life. If the book contained any notion about philosophy being a journey, a way, rather than being a "thing", or an "action", it was lost on me. Secondly, and strongly linked to the first, I read Sophie’s World wrong because philosophy seemed to run counter to my upbringing under the auspices of religion: I didn’t feel as if philosophy was really “allowed,” and any questions philosophy might have raised were already “answered.”
@@ -77,3 +61,26 @@ To put it concisely (this being the first attempt at describing why I’m doing 
 > To help myself - and, potentially, others - to reflect on what it is we put ourselves through as engineers, and why. Searching for connections between nature, our nature, our communities, society and humanity – and our jobs. To reflect and, perhaps, even, to understand.
 
 Fundamentally, philosophy is concerned with doing good by the community. We as engineers are associated with many communities, and it’s up to us to reflect on how deep and wide the goodness of our actions is transmitted.
+
+Also, one quote I just encountered seems apt:
+
+> ‘There is nothing in philosophy which could not be said in everyday language.’ Henri Bergson
+
+## Papers, please
+Returning to  the foreign travel analogy from above (travel being at this time a largely theoretical concept anyway), I could finish by summarising some basic questions: Am I brave enough? Have I the right credentials? Let’s see what I can rustle together at this juncture:
+- Curiosity. Yes, I’m curious about it all. I’m also uncertain about…
+  - what it is we do, as engineers
+  - what, exactly, engineering *is*
+- Openness. Although I'm posting this on the internet, I've not until now been confident enough to flag it: the point of this post is to change that
+  - I would also say that I’m embarrassed, without evidence that I should be, at the thought that work colleagues might read this and think I’m an idiot for even trying.
+- I don’t feel ready to enter in a dialogue with others about philosophy
+  - of course, the whole point of philosophy is dialogue, but I fear I wouldn't be able to put my diffuse ideas across very cogently at present. 
+  - Still, of course, we always need to take the first steps, so here they are!
+- An engineering degree, and a couple of decades of experience in the field
+- I’ve now read a few books and texts on philosophy
+- I sometimes try to reflect on my (work) experiences
+- I’ve started trying to convert my loose thoughts and observations into writing
+
+Is that enough? It looks like a start, at least. Let’s go!
+
+Did someone bring the map?
