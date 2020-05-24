@@ -4,6 +4,7 @@ title: "Why Philosophy-I"
 date: 2020-02-29
 ---
 
+TESTING ON ANDROID!
 ## What a job
 First of all, I am, thankfully, not a philosopher. I would probably have been a very poor one, not having sufficient imagination on how one might make an actual living out of it, other than by learning it and then teaching it. Clearly, though, humanity has managed to sustain philosophical thought through all manner of challenges, be they economic or ideological. Philosophy has challenged engrained assumptions, created new ones, these in their turn to be challenged, and ultimately spawned the idea of logic and the scientific method, enabled human rights to be valued, and provided a humanist way of contemplation and reflection, amongst other things. Everyone has heard of Aristotle and Plato from the ancients. Many have at least heard of Hannah Arendt or Martin Heidegger, so philosophy has its rock stars. 
 
