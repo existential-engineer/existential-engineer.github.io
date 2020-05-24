@@ -4,14 +4,15 @@ title: "Why Philosophy-I"
 date: 2020-02-29
 ---
 
-TESTING ON ANDROID!
 ## What a job
 First of all, I am, thankfully, not a philosopher. I would probably have been a very poor one, in both the capability and the pecuniary senses. I struggle to imagine how one might make an actual living out of philosophy, other than by learning it and then teaching it. Clearly, though, humanity has managed to sustain philosophical thought through all manner of challenges, be they economic or ideological. Philosophy has challenged engrained assumptions, created new ones, these in their turn to be challenged, and ultimately spawned the idea of logic and the scientific method, enabled human rights to be valued, and provided a humanist way of contemplation and reflection, amongst other things. Everyone has heard of Aristotle and Plato from the ancients. Many have at least heard of Hannah Arendt or Martin Heidegger. Philosophy has its rock stars. 
 
 I'm just not one of them, that's all. And that's fine! There is, I feel, room for overly keen amateurs like me to peer into that rabbit hole and think: "That looks interesting."
 
-## Did somebody bring the map?
-As an interested and still enthusiastic amateur, I can say that philosophy is a foreign land that looks… intriguing. It is also immeasurably huge. Let’s treat this post as an early entry into a travel journal. I have by now read some of the simpler travel guides, started to learn a few words from a phrasebook and had a look at it all online. But I haven't planned an itinerary, nor do I know where to devote more or less time to.
+## Do you absolutely *have* to write about it?
+Reading about philosophy is one thing, but, especially in the case of philosophy, however well we feel we might have understood a point, it's something else entirely to try and state my own case. The whole challenge of philosophy is converting some rather diffuse thoughts and feelings about a matter into cogent words that could be understood by others. And this is where you, the reader come in. You're my sounding board, even if you never read this. If you do, then we will have entered into a dialogue, even if you never respond. And if you do respond - then things can really come to life.
+
+But, as I say, I'm right at the beginning here; this post is like an early entry into a travel journal. I have by now read some of the [simpler travel guides](https://existential-engineer.github.io/readinglist/), started to [learn a few words](https://existential-engineer.github.io/2019/08/23/What-Are-They-Talking-About.html) from a phrasebook and had a look at it all online. But I don't have an itinerary, let alone a destination .
 
 ## What: *All* of philosophy?
 In a word, no. I intend to focus on "just" engineering - but its connections to and overlaps with technology, nature, companies, economics and society mean that it's probably impossible to view engineering in isolation. And I'm not that sort of person, anyway. 
