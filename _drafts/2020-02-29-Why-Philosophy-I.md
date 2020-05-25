@@ -5,6 +5,7 @@ date: 2020-02-29
 ---
 
 TEST2 incl. offline
+This  is the bit I wrote offline, sitting out in the sun...
 ## What a job
 I never for one moment considered philosophy as a career option. I would probably have been a very poor philosopher, both in terms of effectiveness and financially, but more likely still is that I wouldn't have stayed there for very long. Finding my niche in that world, adding a twist here and there to other peoples' thoughts to make them sound my own. perhaps into perhaps new Indeed, I struggle to imagine how one might make an actual living out of philosophy, other than by learning it and then teaching it. Clearly, though, humanity has managed to sustain philosophical thought through all manner of challenges, be they economic or ideological. Philosophy has challenged engrained assumptions, created new ones, these in their turn to be challenged, and ultimately spawned the idea of logic and the scientific method, enabled human rights to be valued, and provided a humanist way of contemplation and reflection, amongst other things. Everyone has heard of Aristotle and Plato from the ancients. Many have at least heard of Hannah Arendt or Martin Heidegger. Philosophy has its rock stars. 
 
