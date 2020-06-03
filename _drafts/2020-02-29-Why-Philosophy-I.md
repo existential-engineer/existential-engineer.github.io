@@ -37,7 +37,6 @@ Examples like the shadow play of Plato's [Allegory of the cave](https://en.wikip
 
 Even some of my current reading has revealed philosophers creating unrecognisable "technicians" or "engineers" who apparently have only one dehumanising, purely rational mode of thought, which is not how I feel about things. We have techniques and formalised procedures, for sure, and that's something that can be studied psychologically as well as philosophically; how we switch between modes seems interesting, and worth reflecting on from my experiences both within and "without" engineering. 
 
-## Finding my bearings
 It took a long while for the “spark” of an [offhand comment from a friend](https://existential-engineer.github.io/about/) of ours a few years ago to light. I did start some earlier attempts at blogging about engineering, but I struggled to find my voice for it. It's tricky to blog about your engineering life when you're embedded in a company, with the necessity of maintaining corporate and competitive discretion that that entails.
 
 Now, though, having started on the slippery slope towards the philosophy of and around engineering, I'm more open to the suggestion that philosophy can offer insights into a possible “meaning of engineering-if-not-life-itself”, especially as religion didn’t have all that much to say about engineering ("Do unto steel as you would have steel do unto you" wouldn't get us very far, and that bit about us humans having dominion over everything else seems a little... unsettling these days?), whereas philosophy actually does.
@@ -45,28 +44,23 @@ Now, though, having started on the slippery slope towards the philosophy of and 
 ## Go on, then, get to the point
 The point that I am slowly uncovering is that there isn’t a point. It’s a whole plane, if not more. Philosophy is a way of trying to capture those permanently evanescent, ineffable, internal processes that guide us, in multiple aspects. It provided us with the concept of logic, but it doesn’t tend to provide algorithms.
 
-As far as I understand it now, philosophy is more a way of reflection than psychological analysis, though it enables that spectrum between feelings and notions on the one hand, and deep science on the other; we could almost say it’s a way of life, but it doesn’t prescribe what that way, for you, should be. Knowing the difference between techne and phronesis, for example, or considering hermeneutics as entering a dialogue with the author, even behind the screen of an apparently “done” text, might help to condition how we work.
+As far as I understand it now, philosophy is more a way of reflection than psychological analysis, though it enables that spectrum between feelings and notions on the one hand, and deep science on the other; we could almost say it’s a way of life, but it doesn’t prescribe what that way, for you, should be. Knowing the difference between techne and phronesis, for example, or considering hermeneutics as entering a dialogue with the author (of a specification, for example, as well as of a novel or a poem), even behind the screen of an apparently “done” text, might help to condition how we work.
 
-Aristotle’s notion of “praxis”, or practice, as being how we act towards the commonly understood “good” of a community (and its politics) can also be a guiding thought – but also a rabbit hole of understanding which community we are actually serving.
+Aristotle’s notion of “praxis”, or practice, as being how we act towards the commonly understood “good” of a community (and its politics) can also be a guiding thought – but also a rabbit hole of understanding which community / communities we are actually serving.
 
 We can treat the “names” of philosophy (Aristotle, Plato, Newman, Arendt, Gadamer, Husserl, etc) as the high priests of such thinking. Essentially, they’re the 'pros' who (somehow) managed to finance a life of thought and teaching for the rest of humanity. The problem with pros in any area of life, be it sport or art or materials science, is that their achievements can appear unattainable for mere mortals. This is what I’m trying to do here – not to attain the same level of mastery as those names, but to condense and learn from them as I apply it to my / our world of engineering.
 
-As Seneca mentioned; our own lives may be short, but they're not disconnected from the mass of human experience that has gone before - we can contemplate their thinking, and others' interpretations and "takes" on their thinking and try to map out our own field of experience, of life, and how to live it: what we do, and how.
+As Seneca mentioned; our own lives may be short, but they're not disconnected from the mass of human experience that has gone before - we can contemplate humanity's mass of thought, and others' interpretations and "takes" on their thinking and try to map out our own field of experience, of life, and how to live it: what we do, and how.
 
-This field is also one of tension, containing knowledge, being and becoming, interpretation and understanding, agency and ethics, to name a few of the major points.
+There are unresolvable tensions to acknowledge, different forms of knowledge itself, phases of being and becoming, awareness of the concepts of interpretation and understanding, agency and ethics, to name a few of the major points.
 
-## What questions could I be asking?
-I’m glad I asked the question! It’s a good way of analysing my enjoyment and frustrations around the business of engineering: the latter reflecting more the “non-value-add” aspects of what we do, that are eminently justified, but can end up becoming overwhelming. Questions would be along the lines of:
-•	How much audit is too much audit? Can there be too little?
-•	Timing plans: what do they mean, really?
-•	Of course we need to validate our products: but who enjoys it?
 
 ## The point of the point being?
 To put it concisely (this being the first attempt at describing why I’m doing this):
 
 > To help myself - and, potentially, others - to reflect on what it is we put ourselves through as engineers, and why. Searching for connections between nature, our nature, our communities, society and humanity – and our jobs. To reflect and, perhaps, even, to understand.
 
-Fundamentally, philosophy is concerned with doing good by the community. We as engineers are associated with many communities, and it’s up to us to reflect on how deep and wide the goodness of our actions is transmitted.
+Fundamentally, philosophy is concerned with understanding our natures as humans, and doing good by the community. We as engineers are associated with many communities, and it’s up to us to reflect on how deep and wide the "goods" of our actions are transmitted. Questioning and dialogue seem to be the philosophical way of analysing our own satisfaction and frustrations around the business of engineering, and these are aspects that I will bear in mind as I progress. 
 
 Also, one quote I just encountered seems apt:
 
