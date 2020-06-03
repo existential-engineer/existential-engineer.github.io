@@ -35,7 +35,7 @@ When it wasn't being incomprehensible, philosophy was also being just downright 
 
 Examples like the shadow play of Plato's [Allegory of the cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave), also mentioned, as I recall, in Sophie's World, just seemed to cast philosophy as a somewhat daft thought experiment without any practical use on how to act, to live my life or, eventually, how to study or think about engineering. Not a hint of it.
 
-Even some of my current reading has revealed philosophers creating unrecognisable "technicians" or "engineers" who apparently have only one mode of thought, which is dehumanising, purely rational. This seems to me to be an opportunity to try and rephrase things with my experiences from both within and "without" engineering. 
+Even some of my current reading has revealed philosophers creating unrecognisable "technicians" or "engineers" who apparently have only one dehumanising, purely rational mode of thought, which is not how I feel about things. We have techniques and formalised procedures, for sure, and that's something that can be studied psychologically as well as philosophically; how we switch between modes seems interesting, and worth reflecting on from my experiences both within and "without" engineering. 
 
 ## Finding my bearings
 It took a long while for the “spark” of an [offhand comment from a friend](https://existential-engineer.github.io/about/) of ours a few years ago to light. I did start some earlier attempts at blogging about engineering, but I struggled to find my voice for it. It's tricky to blog about your engineering life when you're embedded in a company, with the necessity of maintaining corporate and competitive discretion that that entails.
