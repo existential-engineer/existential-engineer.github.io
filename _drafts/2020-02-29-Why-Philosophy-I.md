@@ -12,12 +12,12 @@ Like most engineers, if I think of it at all, I struggle to imagine how one migh
 I'm just not one of them, that's all. And that's fine! There is, I feel, room for overly keen amateurs like me to peer into that rabbit hole and think: "That looks interesting."
 
 ## Do you absolutely *have* to write about it?
-Reading about philosophy is one thing, but, especially in the case of philosophy, however well we feel we might have understood a point, it's something else entirely to try and state my own case. The whole challenge of philosophy is converting some rather diffuse thoughts and feelings about a matter into cogent words that could be understood by others. And this is where you, the reader come in. You're my sounding board, even if you never read this. If you do, then we will have entered into a dialogue, even if you never respond. And if you do respond - then things can really come to life.
+Reading about philosophy is one thing, but, especially in the case of philosophy, however well we feel we might have understood a point, it's something else entirely to try and state my own case. The whole challenge of philosophy is converting some rather diffuse thoughts and feelings about a matter into cogent words that could be understood by others. And this is where you, the reader come in. You're my sounding board, even if you never read this. I can work with imaginary readers for now - but if you do end up reading this, then we will have entered into a dialogue, even if you never respond. And if you do respond - then things can really come to life.
 
-But, as I say, I'm right at the beginning here; this post is like an early entry into a travel journal. I have by now read some of the [simpler travel guides](https://existential-engineer.github.io/readinglist/), started to [learn a few words](https://existential-engineer.github.io/2019/08/23/What-Are-They-Talking-About.html) from a phrasebook and had a look at it all online. But I don't have an itinerary, let alone a destination .
+But, as I've mentioned, I'm right at the beginning here; this post is an early entry into a travel journal. I have by now read some of the [simpler travel guides](https://existential-engineer.github.io/readinglist/), started to [learn a few words](https://existential-engineer.github.io/2019/08/23/What-Are-They-Talking-About.html) from a phrasebook and had a look at it all online. But I don't have an itinerary, let alone a destination .
 
 ## What: *All* of philosophy?
-In a word, no. In two words, no: but. My intention is to focus on "just" engineering - but its connections to and overlaps with technology, nature, companies, economics and society mean that it's impossible to view engineering in isolation. Which means that, right now, it's difficult to set the scope, to create a "hard" boundary diagram for this particular investigation. 
+In a word, no. In two words, no: but. My intention is to focus on "just" engineering - but its connections to and overlaps with technology, nature, companies, economics, ethics and society mean that it's impossible to view engineering in isolation. Which means that, right now, it's difficult to set the scope, to create a "hard" boundary diagram for this particular investigation. 
 
 Did that answer the question?
 
@@ -27,7 +27,7 @@ The only previous encounter I had with philosophy that I can recall is reading S
 And that, pretty much, was that between philosophy and me for the next couple of decades.
 
 ## Daunt you go there
-Philosophers, as far as I knew, practically lived for unnecessarily complicated words like ontology, epistemology and so on. They seemed only able to express things in such tortured and obtuse language that nobody could understand it, other than other professional philosophers.
+Also, philosophers, as far as I knew, practically *lived* for unnecessarily complicated words like ontology, epistemology and so on. They seemed only able to express things in such tortured and obtuse language that nobody could understand it, other than other professional philosophers.
 
 And how did they get paid for that stuff, anyway? What were they *producing*?
 
@@ -35,10 +35,12 @@ When it wasn't being incomprehensible, philosophy was also being just downright 
 
 Examples like the shadow play of Plato's [Allegory of the cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave), also mentioned, as I recall, in Sophie's World, just seemed to cast philosophy as a somewhat daft thought experiment without any practical use on how to act, to live my life or, eventually, how to study or think about engineering. Not a hint of it.
 
-## Finding my bearings
-It took a long while for the “spark” of an [offhand comment from a friend](https://existential-engineer.github.io/about/) of ours a few years ago to light. I did make earlier attempts at blogging about engineering, but I struggled to find my voice for it. It's tricky to blog about your engineering life when you're embedded in a company, with all the IP and competitive XXXX
+Even some of my current reading has revealed philosophers creating unrecognisable "technicians" or "engineers" who apparently have only one mode of thought, which is dehumanising, purely rational. This seems to me to be an opportunity to try and rephrase things with my experiences from both within and "without" engineering. 
 
-Now, though, having decided to concentrate on the philosophy of and surrounding engineering, I'm more open to the suggestion that philosophy can offer insights into a possible “meaning of engineering-if-not-life-itself.” Especially as religion didn’t have all that much to say about engineering ("Do unto steel as you would have steel do unto you" wouldn't get us very far, and that bit about us humans having dominion over everything else seems a little... unsettling these days?), whereas philosophy actually does.
+## Finding my bearings
+It took a long while for the “spark” of an [offhand comment from a friend](https://existential-engineer.github.io/about/) of ours a few years ago to light. I did start some earlier attempts at blogging about engineering, but I struggled to find my voice for it. It's tricky to blog about your engineering life when you're embedded in a company, with the necessity of maintaining corporate and competitive discretion that that entails.
+
+Now, though, having started on the slippery slope towards the philosophy of and around engineering, I'm more open to the suggestion that philosophy can offer insights into a possible “meaning of engineering-if-not-life-itself”, especially as religion didn’t have all that much to say about engineering ("Do unto steel as you would have steel do unto you" wouldn't get us very far, and that bit about us humans having dominion over everything else seems a little... unsettling these days?), whereas philosophy actually does.
 
 ## Go on, then, get to the point
 The point that I am slowly uncovering is that there isn’t a point. It’s a whole plane, if not more. Philosophy is a way of trying to capture those permanently evanescent, ineffable, internal processes that guide us, in multiple aspects. It provided us with the concept of logic, but it doesn’t tend to provide algorithms.
